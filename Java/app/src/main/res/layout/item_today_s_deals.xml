@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/black"
+    android:padding="20dp">
+
+    <ImageView
+        android:id="@+id/iv_photo_today"
+        android:layout_width="175dp"
+        android:background="@drawable/shape_border_rounded_white"
+        android:layout_height="175dp"
+        android:scaleType="centerInside"
+        android:padding="15dp"
+        android:adjustViewBounds="true"
+        android:src="@drawable/i_watch"
+        android:layout_marginBottom="15dp"/>
+    
+    <TextView
+        android:id="@+id/item_product_name_today"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:text="@string/iwatch_series_7_best_quality"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="normal"
+        android:textAllCaps="false"/>
+
+    <TextView
+        android:id="@+id/item_product_price_today"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:text="@string/_199_99"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textAllCaps="false"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/item_product_last_price_today"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="7dp"
+            android:text="@string/_249_99"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <View
+            android:layout_width="2dp"
+            android:layout_height="2dp"
+            android:background="#90FFFFFF"
+            android:layout_marginEnd="7dp"/>
+
+        <TextView
+            android:id="@+id/item_product_off_percent_today"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_20"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            android:textAllCaps="false"
+            android:layout_marginEnd="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/off"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            android:textAllCaps="false"
+            android:layout_marginEnd="10dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kotlin</string>
+    <string name="search_for_anything">Search for Anything</string>
+    <string name="saved">Saved</string>
+    <string name="categories">Categories</string>
+    <string name="deals">Deals</string>
+    <string name="up_to_70_off_bedding_and_bath">Up to 70% off bedding and bath</string>
+    <string name="stock_yourlinen_closet_with_towels_sheetsm_and_more">Stock yourlinen closet with towels. sheetsm and more</string>
+    <string name="freshen_up">Freshen up</string>
+    <string name="the_right_parts_at_the_right_prices">The right parts at the right prices</string>
+    <string name="everything_you_need_for_your_vehicle">Everything you need for your vehicle</string>
+    <string name="lets_ride">Lets\' ride!</string>
+    <string name="up_to_60_off_your_favorites">Up to 60% off your favorites</string>
+    <string name="refurbished_phones_from_trusted_sellers_with_a_warranty">Refurbished phones from trusted sellers with a warranty</string>
+    <string name="get_them_now">Get them now</string>
+    <string name="apple_watch">Apple Watch</string>
+    <string name="today_s_deals_all_with_free_shipping">Today\'s Deals - All With Free\nShipping</string>
+    <string name="iwatch_series_7_best_quality">iWatch Series 7 Best Quality</string>
+    <string name="_249_99"><strike>$249.99</strike></string>
+    <string name="strike"> Geeks <strike>For Geeks </strike> </string>
+    <string name="_199_99">$199.99</string>
+    <string name="dot">.</string>
+    <string name="_20">20%</string>
+    <string name="off">OFF</string>
+    <string name="super_cars">Super Cars</string>
+    <string name="the_best_categories_on_this_app">The best categories\non this app</string>
+</resources>
